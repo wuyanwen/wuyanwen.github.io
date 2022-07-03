@@ -1,0 +1,45 @@
+layout: false 
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>H5-wuyanwen.cc</title>
+    <style type="text/css">
+      body{ text-align:center;background-color: #FBB808;position: relative;}
+      .phone{
+          position: relative;
+          background: url('http://www.omlzz.com/application/component/toupiao/common/images/common/iphone.png') no-repeat;
+          background-size: 100%;
+          background-position: left top;
+          width: 350px;
+          height: 750px;
+          padding: 70px 0px  0px;
+          margin: 0 auto;
+      }
+      iframe{
+          height: 78%;
+      }
+        #qrcode {
+            position: absolute;
+            top: 20%;
+            right: 10%;
+        }
+    </style>
+</head>
+<body>
+<div class="phone">
+    <iframe src="http://www.omlzz.com/index.php/toupiao/h5/index?check=1&vid=447607376"></iframe>
+</div>
+<div id="qrcode"></div>
+<script src="https://cdn.bootcss.com/jquery/2.1.0/jquery.js"></script>
+<script src="https://cdn.bootcss.com/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+<script>
+    $('#qrcode').qrcode({
+        width: 200, //宽度
+        height:200, //高度
+        text: "http://www.omlzz.com/index.php/toupiao/h5/index?check=1&vid=447607376" //url
+    });
+</script>
+</body>
+</html>
