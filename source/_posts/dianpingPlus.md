@@ -41,9 +41,3 @@ react + react-router4.1 + redux + koa2 + koa-router + less + ES6/7 + webpack + f
 
 ## 附项目截图
 
-{% qnimg dianpinPlus1.jpg %}
-
-{% qnimg dianpinPlus2.jpg %}
-
-{% qnimg dianpinPlus3.jpg %}
-

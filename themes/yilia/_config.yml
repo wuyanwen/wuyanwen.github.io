@@ -63,10 +63,16 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: /images/touxiang.png
+
+#你的名字
+author: 吴彦文
+
+#你的副标题
+subtitle: 吴彦文的技术博客
 
 #是否开启分享
 share_jia: true

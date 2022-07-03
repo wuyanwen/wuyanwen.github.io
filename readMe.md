@@ -1,6 +1,6 @@
-# node v8.9.2
-# hexo 3.4.4
-# hexo-cli 1.0.4
+# node v16.15.1
+# hexo 5.4.2
+# hexo-cli@4.3.0
 ```
 	npm install hexo-cli -g
  	hexo init blog
