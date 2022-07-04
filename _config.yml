@@ -121,3 +121,8 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
+# 自动生成sitemap
+sitemap:
+ path: sitemap.xml
+baidusitemap:
+ path: baidusitemap.xml
