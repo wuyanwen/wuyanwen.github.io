@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2017/09/12/angularProjectPlus/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2017/09/07/dianpingPlus/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2017/08/21/hello-world/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2022/07/05/react-cli/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2017/09/20/thinkjsplus/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2022/07/04/vue-cli/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/2017/08/30/weeklyPlus/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/404.html</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/H5.html</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/baidu_verify_code-BmuZqsYZWH.html</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://www.wuyanwen.com/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/angular/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/react/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/react-router/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/redux/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/hello-world/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/webpack5/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/react18/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/vue3/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/vue-router4/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/nuxt/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/vue-cli/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/mongdb/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+</urlset>
