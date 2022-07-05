@@ -1,6 +1,7 @@
-# node v16.15.1
-# hexo 5.4.2
-# hexo-cli@4.3.0
+#  吴彦文博客源代码分支
+## node v16.15.1
+## hexo 5.4.2
+## hexo-cli@4.3.0
 ```
 	npm install hexo-cli -g
  	hexo init blog
