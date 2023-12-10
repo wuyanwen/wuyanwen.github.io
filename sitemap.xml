@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wuyanwen.com/2017/09/12/angularProjectPlus/</loc>
+    <loc>http://www.wuyanwen.com/2017/09/07/dianpingPlus/</loc>
     
     <lastmod>2023-12-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.wuyanwen.com/2017/09/07/dianpingPlus/</loc>
+    <loc>http://www.wuyanwen.com/2017/09/12/angularProjectPlus/</loc>
     
     <lastmod>2023-12-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://www.wuyanwen.com/2023/11/18/vite3-vue3/</loc>
+    <loc>http://www.wuyanwen.com/2022/07/04/vue-cli/</loc>
     
     <lastmod>2023-12-10</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://www.wuyanwen.com/2022/07/04/vue-cli/</loc>
+    <loc>http://www.wuyanwen.com/2023/11/18/vite3-vue3/</loc>
     
     <lastmod>2023-12-10</lastmod>
     
@@ -101,13 +101,6 @@
 
   
   <url>
-    <loc>http://www.wuyanwen.com/tags/angular/</loc>
-    <lastmod>2023-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.wuyanwen.com/tags/react/</loc>
     <lastmod>2023-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,6 +116,13 @@
   
   <url>
     <loc>http://www.wuyanwen.com/tags/redux/</loc>
+    <lastmod>2023-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/angular/</loc>
     <lastmod>2023-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -150,20 +150,6 @@
   </url>
   
   <url>
-    <loc>http://www.wuyanwen.com/tags/Vite-3/</loc>
-    <lastmod>2023-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.wuyanwen.com/tags/Vue-3/</loc>
-    <lastmod>2023-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.wuyanwen.com/tags/vue3/</loc>
     <lastmod>2023-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,6 +158,20 @@
   
   <url>
     <loc>http://www.wuyanwen.com/tags/vue-router4/</loc>
+    <lastmod>2023-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/Vite-3/</loc>
+    <lastmod>2023-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wuyanwen.com/tags/Vue-3/</loc>
     <lastmod>2023-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
